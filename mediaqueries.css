@@ -2,7 +2,12 @@
     #desktop-nav {
         display: none;
     }
+
     #hamburger-nav {
         display: flex;
+    }
+
+    section {
+        margin: 4rem 2rem;
     }
 }
